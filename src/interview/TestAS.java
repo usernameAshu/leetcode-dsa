@@ -1,4 +1,4 @@
-package exams;
+package interview;
 
 import java.util.Deque;
 import java.util.LinkedList;

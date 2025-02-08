@@ -30,7 +30,7 @@ public class LocksDemo {
     }
   }
 
-  //multiple threads can acquire the read locks 
+  //multiple threads can acquire the read locks
   public String read() {
     try {
       readWriteLock.readLock().lock();

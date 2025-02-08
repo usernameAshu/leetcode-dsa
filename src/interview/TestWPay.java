@@ -1,4 +1,4 @@
-package exams;
+package interview;
 
 public class TestWPay {
 
