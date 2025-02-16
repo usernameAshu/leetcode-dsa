@@ -28,8 +28,9 @@ public class _7_Array_Self_Product {
      *
      * We create an output array,
      * In that array we store the prefix multiplications : multiplying the values before that index
-     * example: input array: [1, 2, 3, 4, 5]
-     * initial o/p array:    [1, 1, 2, 6, 24]
+     * example: input array:          [1, 2, 3, 4, 5]
+     * initial (prefix) o/p array:    [1, 1, 2, 6, 24]
+     * final o/p array:               [120,60 ,40 ,30 ,24]  ,init-product = 5  (init-product * prefix val)
      *
      * Now, we will traverse this output array backwards, leaving the last index
      * Also, we will store the suffix product from the original input array
