@@ -1,4 +1,4 @@
-package leetcodes;
+package leetcodes._1D_DP;
 
 /**
  * LC: 198 There is an array of integers representing networth of Houses sequentially Robbers are

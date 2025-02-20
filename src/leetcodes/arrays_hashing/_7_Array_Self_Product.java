@@ -1,4 +1,4 @@
-package leetcodes;
+package leetcodes.arrays_hashing;
 
 /**
  * LC 238 Product of Array Except Self
